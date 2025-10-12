@@ -101,6 +101,15 @@ tl.from("#logo", { y: -20, opacity: 0, duration: 1, delay: 0.5 });
 //   //   stagger: { each: 0.3, from: "start" },
 // });
 
-tl.from("#nav-items", { y: 50, opacity: 0, duration: 1 }, "-=0.5");
+// tl.from("#nav-items", { y: 50, opacity: 0, duration: 1 }, "-=0.5");
 
-tl.from("#title", { y: 50, opacity: 0, duration: 1 }, "-=0.5");
+// tl.from("#title", { y: 50, opacity: 0, duration: 1 }, "-=0.5");
+
+// tl.from("#sub-title", { y: 50, opacity: 0, duration: 1 }, "-=0.5");
+// tl.from("#description", { y: 50, opacity: 0, duration: 1 }, "-=0.5");
+// tl.from("#summary", { y: 50, opacity: 0, duration: 1 }, "-=0.5");
+// tl.from("#cta", { y: 50, opacity: 0, duration: 1 }, "-=0.5");
+// tl.from("#social-icons", { y: 50, opacity: 0, duration: 1 }, "-=0.5");
+// tl.from("#footer", { y: 50, opacity: 0, duration: 1 }, "-=0.5");
+// tl.from("#hero-image", { x: 50, opacity: 0, duration: 1 }, "-=0.5");
+// tl.from("#hero-image", { x: 50, opacity: 0, duration: 1 }, "-=1");
