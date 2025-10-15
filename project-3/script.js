@@ -49,6 +49,7 @@ textBreak();
 
 gsap.from("h1 span", {
   y: 100,
+
   duration: 0.8,
   opacity: 0,
   delay: 0.4,
